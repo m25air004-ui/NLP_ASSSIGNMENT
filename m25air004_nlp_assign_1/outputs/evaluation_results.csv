@@ -1,0 +1,4 @@
+Stage,Dimension,Cosine Similarity
+Base,384,0.5259106
+Reduced,128,0.42119682
+Fine-tuned,128,0.8149512
