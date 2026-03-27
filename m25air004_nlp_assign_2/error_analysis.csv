@@ -1,0 +1,5 @@
+Error_Category,Count,Percentage
+Vocabulary_Mismatch,4,40.0
+Semantic_Drift,5,50.0
+Structural_Issues,0,0.0
+Good_Translations,1,10.0
